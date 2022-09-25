@@ -4,3 +4,6 @@ recipes:
 Pizza
 Burger
 FrenchFries
+
+Momos 
+Chilli potatoes
